@@ -1,0 +1,33 @@
+{
+  "name": "a4-validators",
+  "version": "5.0.3",
+  "license": "MIT",
+  "scripts": {},
+  "private": false,
+  "dependencies": {
+    "@angular/core": "^5.0.0",
+    "@angular/common": "^5.0.0",
+    "@angular/platform-server": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
+    "@angular/compiler": "^5.0.0",
+    "@angular/forms": "^5.0.0",
+    "@angular/animations": "^5.0.0",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.2.0",
+    "zone.js": "^0.8.5",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": "^5.0.0",
+    "typescript": "~2.4.0"
+  },
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billcheng/a4-validators"
+  },
+  "author": "Bill Cheng <cccheng118@yahoo.com>",
+  "maintainers": [
+    "Bill Cheng <cccheng118@yahoo.com>"
+  ]
+}
